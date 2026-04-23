@@ -64,7 +64,7 @@ A 533-line x86 MASM Assembly program demonstrating mastery of low-level I/O proc
 
 ### 📸 Program Output
 
-![Program output showing sum, average, goodbye message, and ASCII holiday art](outupt.jpg)
+![Program output showing sum, average, goodbye message, and ASCII holiday art](output.jpg)
 
 > *Yes, that ASCII art "HAPPY HOLIDAYS" is rendered entirely in raw byte values — because why not?* 😄
 
